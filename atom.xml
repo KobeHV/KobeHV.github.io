@@ -3,23 +3,18 @@
   <title>Hexo</title>
   
   <subtitle>hero&amp;villain</subtitle>
-  <link href="http://shuguang.host/atom.xml" rel="self"/>
+  <link href="http://example.com/child/atom.xml" rel="self"/>
   
-  <link href="http://shuguang.host/"/>
+  <link href="http://example.com/child/"/>
   <updated>2020-09-26T12:19:10.705Z</updated>
-  <id>http://shuguang.host/</id>
-  
-  <author>
-    <name>shuguang zhao</name>
-    
-  </author>
+  <id>http://example.com/child/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>hello_blog</title>
-    <link href="http://shuguang.host/2020/09/26/hello-blog/"/>
-    <id>http://shuguang.host/2020/09/26/hello-blog/</id>
+    <link href="http://example.com/child/2020/09/26/hello-blog/"/>
+    <id>http://example.com/child/2020/09/26/hello-blog/</id>
     <published>2020-09-26T12:06:06.000Z</published>
     <updated>2020-09-26T12:19:10.705Z</updated>
     
@@ -38,8 +33,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://shuguang.host/2020/09/26/hello-world/"/>
-    <id>http://shuguang.host/2020/09/26/hello-world/</id>
+    <link href="http://example.com/child/2020/09/26/hello-world/"/>
+    <id>http://example.com/child/2020/09/26/hello-world/</id>
     <published>2020-09-26T11:12:39.057Z</published>
     <updated>2020-09-26T11:12:39.057Z</updated>
     
